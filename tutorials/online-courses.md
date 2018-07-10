@@ -2,6 +2,7 @@
 
 ## Python
 1. [Sentdex Python Tutorials](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+2. [The New Boston Django Tutorials](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
 
 ## JavaScript
