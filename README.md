@@ -18,3 +18,9 @@
 
 ## Online Tutorials
 1. [Find best resources online](https://github.com/chetanhere/100-days-of-code/blob/master/tutorials/online-courses.md)
+
+___
+___
+# Licensing and Copyright
+
+This is licensed under[MIT license](LICENSE).
